@@ -13,12 +13,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Machine learning
 
 Image recognition is a well-known and widespread example of machine learning in the real world. It can identify an object as a digital image, based on the intensity of the pixels in black and white images or colour images. Real-world examples of image recognition: Label an x-ray as cancerous or not..
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/download.jpg"/></center>
 ## Fraud Detection
 > Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more..
 >
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/download (1).jpg"/></center>
 
 ### Definition lists can be used with HTML syntax.
 
